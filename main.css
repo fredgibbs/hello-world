@@ -3,6 +3,10 @@ h1 {
   margin-bottom: 15em;
 }
 
-p {
- color: #FF5555; 
+p.red {
+ color: red; 
+}
+
+p.blue {
+  color: blue;
 }
